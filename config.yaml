@@ -1,0 +1,5 @@
+capture_interface: lo
+flow_timeout: 30
+pcap_out: captured.pcap
+alert_pkt_rate_per_sec: 1000
+alert_bytes_threshold: 10000000
